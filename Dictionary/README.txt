@@ -1,0 +1,18 @@
+
+Matin Javadi - 9811521013
+Dictionary Application - Written in -> ( PHP: 5.6 | CLI: 7.4.5 )
+
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+1 - OPENING <<insert.php>> AS FIRST FILE IS HIGHLY RECOMMENDED
+
+2 - THE MAIN DATABASE PROPERTIES INSERTED INTO <<db.php>> FILE, <<dictionary.sql>> CODES WILL BUILD REQUESTED db.
+
+3 - THIS APPLICATION NEEDS XAMPP CONTROL PANEL RUNNING IN BACKGROUND FOR WORKING FUNCTIONALLY.
+
+4 - THIS APPLICATION USES MySQL DATABASE TO RUN.
+
+5 - THIS APPLICATION IS TESTED MANY TIMES AND CORRECT PERFORMANCE PROVEN WELL.
+
+
+THANK YOU...
